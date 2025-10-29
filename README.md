@@ -25,13 +25,13 @@ Este projeto tem como objetivo analisar a relação entre fatores socioeconômic
 │   ├── IDMH.csv
 │   ├── gini geral.csv
 │   ├── leitos sus.csv
+│   ├── dataset_final.csv
 │
 ├── saida/                 # 📊 Dados tratados e unificados
 │   ├── scatter_plot_taxa_vs_fumantes.png
 │   ├── scatter_plot_taxa_vs_idhm.png
 │   ├── series_temporais_por_estado.png   # 🌐 Visualização de correlação
 │
-│   ├── dataset_final.csv
 │  
 │
 ├── analise_de_dados.ipynb    # 📓 Notebook principal de análise
