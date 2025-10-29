@@ -73,13 +73,6 @@ jupyter notebook
 
 Depois, abra o arquivo `analise_de_dados.ipynb`.
 
-### 5. (Opcional) Rodar o dashboard interativo
-
-```bash
-streamlit run dashboard.py
-```
-
----
 
 ## 📊 Visualizações
 
